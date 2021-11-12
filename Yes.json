@@ -1,0 +1,13 @@
+class Yes {
+}
+Scratch.extensions.register(new Yes());
+getInfo() {
+    return {
+        "id": "Yes",
+        "name": "Yes",
+        "blocks": [
+        ],
+        "menus": { //we will get back to this in a later tutorial
+        }
+    };
+}//ummmmmmmmm end?
